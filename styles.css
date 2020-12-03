@@ -1,0 +1,22 @@
+.title-img{
+  width: 80%;
+  height: auto;
+  border-radius: 82% 76% 74% 84% / 49% 49% 50% 51%  ;
+}
+.header{
+background-image: url(bg.jpeg);
+}
+.row{
+  padding: 123px;
+  text-align: left;
+}
+/* 82% 76% 74% 84% / 37% 39% 46% 42% */
+.btn{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 50px;
+}
+h1,h2,h3{
+  font-family: 'Libre Baskerville', serif;
+  color: green;
+}
